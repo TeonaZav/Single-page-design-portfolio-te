@@ -32,4 +32,4 @@ Our challenge was to build out this single-page design portfolio using any tools
 ## URL
 
 https://single-page-design-portfolio-t.netlify.app/ <br>
-https://single-page-design-portfolio-t.netlify.app/
+https://teonazav.github.io/Single-page-design-portfolio-te/#
